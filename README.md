@@ -17,3 +17,4 @@ Here is a beginner's guide to the main modules imported in PyTorch:
 ### 3. `import torch.optim as optim`
 * **Purpose:** The Optimizer module.
 * **What it does:** It contains **optimization algorithms** (like SGD, Adam, RMSprop) that update your model's weights during training based on the calculated gradients to minimize error/loss.
+
